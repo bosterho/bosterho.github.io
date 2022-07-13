@@ -1,2 +1,2 @@
 # bosterho.github.io
-Find links to a few p5 sketches I made here.
+Just a couple links to some p5 sketches I made.
